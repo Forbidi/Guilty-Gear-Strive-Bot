@@ -8,9 +8,6 @@
 ![Version](https://img.shields.io/badge/version-1.5-blue.svg)
 
 
-
-
-
 ## Features
 ```fix
 -) Stream Proof
@@ -49,6 +46,10 @@
 click image to display video
 
 [<img src="https://user-images.githubusercontent.com/29312029/276094114-7f0142db-16cf-4f82-8ba8-27cdeff0d389.png" width="100%">](https://drive.google.com/file/d/1CjGIjzELL_qfFfUt6m_OMcfH6MFEr9dH/view "Showcase")
+
+## Example How to Use
+
+https://github.com/Forbidi/Albion-Online-Bot/assets/29312029/82bd563f-69ad-4d00-96c5-5d8b5e8c5a10
 
 ## Discord:
 
