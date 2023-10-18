@@ -56,7 +56,8 @@ https://github.com/Forbidi/Albion-Online-Bot/assets/29312029/82bd563f-69ad-4d00-
 https://discord.com/invite/PtRgRdKh8r
 
 
-## Training Data
+## Media
+ [Training Data](https://www.dustloop.com/w/GGST)
 
 
 https://github.com/Forbidi/Guilty-Gear-Strive-Bot/assets/29312029/75e17602-3fdd-44b7-959f-b6d880fdfc3e
