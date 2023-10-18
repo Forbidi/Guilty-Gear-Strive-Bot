@@ -1,4 +1,4 @@
-# Guilty-Gear-Strive-Bot 🌟
+# Guilty-Gear-Strive-Bot
 | Private External | Guilty Gear Strive | Bot &amp; Script | Save Combo | Stream Proof | Undetected |
  
 
@@ -49,7 +49,6 @@ click image to display video
 
 ## Example How to Use
 
-https://github.com/Forbidi/Albion-Online-Bot/assets/29312029/82bd563f-69ad-4d00-96c5-5d8b5e8c5a10
 
 ## Discord:
 
