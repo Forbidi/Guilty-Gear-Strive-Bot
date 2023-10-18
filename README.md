@@ -7,14 +7,12 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Version](https://img.shields.io/badge/version-1.5-blue.svg)
 
-click image to display video
 
-[<img src="https://user-images.githubusercontent.com/29312029/276094114-7f0142db-16cf-4f82-8ba8-27cdeff0d389.png" width="100%">](https://drive.google.com/file/d/1CjGIjzELL_qfFfUt6m_OMcfH6MFEr9dH/view "Showcase")
 
+
+
+## Features
 ```fix
-
-Features:
-
 -) Stream Proof
 -) Bot
     Script for: (25) Anji Mito, Asuka R. Kreutz, Axl Low, Baiken, Bedman, Bridget, Chipp Zanuff, Faust, Giovanna, Goldlewis Dickinson, Happy Chaos, 
@@ -46,14 +44,18 @@ Features:
 
 
 ```
+## Media: 
 
-```fix
-Discord
-```
-||https://discord.com/invite/PtRgRdKh8r
+click image to display video
+
+[<img src="https://user-images.githubusercontent.com/29312029/276094114-7f0142db-16cf-4f82-8ba8-27cdeff0d389.png" width="100%">](https://drive.google.com/file/d/1CjGIjzELL_qfFfUt6m_OMcfH6MFEr9dH/view "Showcase")
+
+## Discord:
+
+https://discord.com/invite/PtRgRdKh8r
 
 
-Training Data:
+## Training Data
 
 
 https://github.com/Forbidi/Guilty-Gear-Strive-Bot/assets/29312029/75e17602-3fdd-44b7-959f-b6d880fdfc3e
