@@ -5,7 +5,7 @@
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/PtRgRdKh8r)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Version](https://img.shields.io/badge/version-1.5-blue.svg)
+![Version](https://img.shields.io/badge/version-1.6-blue.svg)
 
 
 ## Features
