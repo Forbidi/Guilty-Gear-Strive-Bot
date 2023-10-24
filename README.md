@@ -43,9 +43,13 @@
 ```
 ## Media: 
 
-click image to display video
+https://github.com/Forbidi/Guilty-Gear-Strive-Bot/assets/29312029/61814bf4-536c-4478-9014-8599571bc805
 
-[<img src="https://user-images.githubusercontent.com/29312029/276094114-7f0142db-16cf-4f82-8ba8-27cdeff0d389.png" width="100%">](https://drive.google.com/file/d/1CjGIjzELL_qfFfUt6m_OMcfH6MFEr9dH/view "Showcase")
+
+
+https://github.com/Forbidi/Guilty-Gear-Strive-Bot/assets/29312029/1042c520-da60-4ad2-8da3-f2d8d5d01e15
+
+
 
 
 
