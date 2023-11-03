@@ -3,9 +3,9 @@
  
 
 
-[![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/PtRgRdKh8r)
+[![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/pQZYd8sGqF)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
 
 
 ## Features
@@ -58,8 +58,7 @@ The latest version can be downloaded [here](https://github.com/Forbidi/Guilty-Ge
 
 ## Discord:
 
-https://discord.com/invite/PtRgRdKh8r
-
+https://discord.gg/pQZYd8sGqF
 
 ## Media
  [Training Data](https://www.dustloop.com/w/GGST)
