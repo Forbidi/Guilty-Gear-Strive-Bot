@@ -46,7 +46,6 @@
 https://github.com/Forbidi/Guilty-Gear-Strive-Bot/assets/29312029/61814bf4-536c-4478-9014-8599571bc805
 
 
-
 https://github.com/Forbidi/Guilty-Gear-Strive-Bot/assets/29312029/1042c520-da60-4ad2-8da3-f2d8d5d01e15
 
 
