@@ -1,7 +1,5 @@
 # Guilty-Gear-Strive-Bot
-| Private External | Guilty Gear Strive | Bot &amp; Script | Save Combo | Stream Proof | Undetected |
- 
-
+A bot and script for Guilty Gear Strive, featuring functionalities such as Stream Proof, Record and view all Combos history and save.
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/pQZYd8sGqF)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
@@ -9,38 +7,25 @@
 
 
 ## Features
-```fix
--) Stream Proof
--) Bot
-    Script for: (25) Anji Mito, Asuka R. Kreutz, Axl Low, Baiken, Bedman, Bridget, Chipp Zanuff, Faust, Giovanna, Goldlewis Dickinson, Happy Chaos, 
-                I-No, Jack-O' Valentine, Johnny Sfondi, Ky Kiske, Leo Whitefang, May, Millia Rage, Nagoriyuki, Potemkin, Ramlethal Valentine, 
-                Sin Kiske, Sol Badguy, Testament, Zato-1,
 
-    Delay for ping
-    Time runing Bot
-    Active only script
-    Active Bot
+- **Stream Proof**
+- **Bot**
+  - Script for all characters
+  - Ping delay
+  - Bot runtime
+  - Selective script and bot activation
+- **Misc**
+  - Faster loading screen
+  - Hitbox view
+  - Record CPU combo
+  - Save all combos in .lua
+  - Combo modes (Burst, Decay, Wall, Gauge Level)
+  - xInput configuration
+- **Controls**
+  - Auto-detect configuration for different controllers
+  - Button configuration
+- **Save Configurations**
 
--) Misc
-    Faster Loading Screen
-    Hitbox View
-    Record CPU Combo
-    Save all Combos in .lua
-    Mode Combo
-      Burst
-      Decay
-      Wall
-      Gauge Level
-    xInput config
-
- -) Controls
-    Detect auto config for joystick, Arcade Stick, xbox and Ps5 Controllers
-    Config buttons
-    
- -) Save Configs
-
-
-```
 ## Media: 
 
 https://github.com/Forbidi/Guilty-Gear-Strive-Bot/assets/29312029/61814bf4-536c-4478-9014-8599571bc805
