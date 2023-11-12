@@ -42,7 +42,7 @@ The latest version can be downloaded [here](https://github.com/Forbidi/Guilty-Ge
 
 ## Discord:
 
-https://discord.gg/pQZYd8sGqF
+[Join our Discord community](https://discord.gg/pQZYd8sGqF)
 
 ## Media
  [Training Data](https://www.dustloop.com/w/GGST)
