@@ -3,7 +3,7 @@ A bot and script for Guilty Gear Strive, featuring functionalities such as Strea
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/pQZYd8sGqF)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.8.1-blue.svg)
 
 
 ## Features
